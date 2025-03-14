@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jim! <br/><a href="https://www.linkedin.com/in/jim-davey-8068a29/">Cybersecurity Professional</a>, <a href="https://youtu.be/KTVpY3ZPoIk?si=nWyiPoxal1sb3lBB">Filmmaker</a></h1>
+<h1>Hi, I'm Jim! <br/><a href="https://www.linkedin.com/in/jim-davey-8068a29/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
