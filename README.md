@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/thejimdavey/ActiveDirectoryLab)
+- [Exploring Networking with Cisco Packet Tracer](https://github.com/thejimdavey/PacketTracer) 
 
 <h2> 🤳 Connect with me:</h2>
 
