@@ -4,7 +4,8 @@
 
 - [Active Directory Home Lab](https://github.com/thejimdavey/ActiveDirectoryLab)
 - [Exploring Networking with Cisco Packet Tracer](https://github.com/thejimdavey/PacketTracer)
-- [Active Directory Basics on TryHackMe](https://github.com/thejimdavey/TryHackMeAD)  
+- [Active Directory Basics on TryHackMe](https://github.com/thejimdavey/TryHackMeAD)
+- [Learning Lists in Python with The Beatles](https://github.com/thejimdavey/beatles)  
 
 <h2> 🤳 Connect with me:</h2>
 
